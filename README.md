@@ -12,7 +12,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 ## UPDATE
 ```
-wget https://raw.githubusercontent.com/murahbanget0/script/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://github.com/SLAMETRI/script-main/blob/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## RESINTALL/REBUILD VPS DO Ubuntu 20 
